@@ -1,11 +1,11 @@
 # Design-and-Deployment-of-ERC-20-Cryptocurrency
 
-# ShashankToken (SST) – Full ERC-20 Demo
+# SSSToken (SSS) – Full ERC-20 Demo
 A complete demo implementation of an ERC-20 token using OpenZeppelin, built and deployed using Remix IDE.
 
 🚀 Project Overview
 
-ShashankToken (SST) is a fully functional ERC-20 token deployed on the Ethereum/Polygon testnets.
+SSSToken (SSS) is a fully functional ERC-20 token deployed on the Ethereum/Polygon testnets.
 This project demonstrates:
 
 1. ERC-20 token creation
