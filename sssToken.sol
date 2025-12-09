@@ -12,7 +12,7 @@ contract FullERC20Demo is ERC20, Ownable {
     address public constant RECEIVER_ADDRESS = 0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2;
 
     constructor() 
-        ERC20("ShashankToken", "SST") 
+        ERC20("SSSToken", "SSS") 
         Ownable(msg.sender) 
     {
         _mint(OWNER_ADDRESS, 12837654 * 10 ** decimals());
@@ -57,3 +57,4 @@ contract FullERC20Demo is ERC20, Ownable {
         return true;
     }
 }
+
