@@ -8,8 +8,8 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 contract FullERC20Demo is ERC20, Ownable {
 
     // Your addresses
-    address public constant OWNER_ADDRESS   = 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4;
-    address public constant RECEIVER_ADDRESS = 0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2;
+    address public constant OWNER_ADDRESS   = ;
+    address public constant RECEIVER_ADDRESS = ;
 
     constructor() 
         ERC20("SSSToken", "SSS") 
@@ -57,4 +57,5 @@ contract FullERC20Demo is ERC20, Ownable {
         return true;
     }
 }
+
 
