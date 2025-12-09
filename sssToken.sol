@@ -9,7 +9,6 @@ contract FullERC20Demo is ERC20, Ownable {
 
     // Your addresses
     address public constant OWNER_ADDRESS   = ;
-    address public constant RECEIVER_ADDRESS = ;
 
     constructor() 
         ERC20("SSSToken", "SSS") 
@@ -57,5 +56,6 @@ contract FullERC20Demo is ERC20, Ownable {
         return true;
     }
 }
+
 
 
